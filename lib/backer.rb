@@ -2,7 +2,7 @@ class Backer
   
   attr_reader :backer
   
-  def initalize(backer)
+  def initalize
     @backer = backer
   end
   
